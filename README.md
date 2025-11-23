@@ -2,6 +2,8 @@
 
 The web server was written in C code.
 
+[![Development Note p.552](https://img.youtube.com/vi/JTAQbubjpsg/0.jpg)](https://www.youtube.com/watch?v=JTAQbubjpsg)
+
 # **Links(링크)**
 
 * [JkhTV YouTube(장경혁tv)](https://www.youtube.com/channel/UC0lR1aYGgOhFioC3IsazUtw)
